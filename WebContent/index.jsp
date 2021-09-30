@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Sample Test App</title>
+<title>Test App</title>
 </head>
 <body>
 	<h1>Simple Login Web Application </h1>
